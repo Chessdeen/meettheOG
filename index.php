@@ -88,7 +88,6 @@ if($_SERVER['REQUEST_METHOD'] == "POST") {
           <span class="relative text-teal-900">Anuoluwa</span>
         </span>
         <br />
-        
       </h2>
       <br />
       <br />
